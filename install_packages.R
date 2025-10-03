@@ -6,7 +6,7 @@
 options(repos = c(CRAN = "https://cloud.r-project.org/"))
 options(timeout = 300)
 
-cat("VMI Baseball Analytics - Package Installation\n")
+cat("CBU Baseball Analytics - Package Installation\n")
 cat("=============================================\n")
 
 # Track installation failures
