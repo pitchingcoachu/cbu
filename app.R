@@ -7795,6 +7795,15 @@ $(document).off('click.pcuOpenMedia', 'a.open-media')
 server <- function(input, output, session) {
   
   session_label_from <- function(df) {
+    if (!nrow(df)) return("")
+    sessions <- unique(df$SessionType)
+    if (length(sessions) == 1) {
+      return(sessions[1])
+    } else {
+      return("Multiple Sessions")
+    }
+  }
+  
   # Reactive value to store modified pitch data with persistent storage
   modified_pitch_data <- reactiveVal()
   
@@ -7830,9 +7839,6 @@ server <- function(input, output, session) {
       modified_pitch_data(original_data)
     }
   })
-    s <- unique(na.omit(as.character(df$SessionType)))
-    if (length(s) == 1) s else "All"
-  }
   
   observeEvent(input$open_media, {
     info <- input$open_media
