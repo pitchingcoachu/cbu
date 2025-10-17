@@ -2184,7 +2184,7 @@ ALLOWED_PITCHERS <- c(
   "New, Cody",
   "Chavez, Nathan",
   "Capacete, Alfredo",
-  "Yates, Zachary",
+  "Yates, Zach",
   "Urquidi, Niko",
   "Carlson, John",
   "Rudd, Andrew",
