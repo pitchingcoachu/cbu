@@ -1588,3 +1588,5 @@ v3_12_17_20250329-KellField-1.csv
 20260212-PaulDemieMainieriField-1_unverified.csv
 # Auto-pruned non-team data
 20260212-WilliamCarey-1_unverified.csv
+# Auto-pruned non-team data
+20260212-DicksonStadium-1_unverified.csv
