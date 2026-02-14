@@ -4,7 +4,7 @@ school_config <- list(
   team_code = "CBU",
   # Additional school-code markers used in TrackMan team columns (optional).
   # These are checked alongside team_code during allowed-player verification.
-  team_code_markers = c("SOU_RED", "CBU"),
+  team_code_markers = c("CAL_BAP", "CBU", "CAL_LAN"),
   allowed_pitchers = c(
     "Malki, Michael",
     "Hunsaker, Riley",
