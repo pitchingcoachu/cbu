@@ -3286,3 +3286,9 @@ v3_10_28_20250404-OKState-1.csv
 20260216-IrwinField-1_unverified.csv
 # Auto-pruned non-team data
 20260216-NickDenesField-1_unverified.csv
+# Auto-pruned non-team data
+20260216-Arlington-2_unverified.csv
+# Auto-pruned non-team data
+20260216-LSU-1_unverified.csv
+# Auto-pruned non-team data
+20260216-StephenSchottBBS-2_unverified.csv
