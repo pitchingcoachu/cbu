@@ -3272,3 +3272,17 @@ v3_10_28_20250404-OKState-1.csv
 20260215-WichitaState-1.csv
 # Auto-pruned non-team data
 20260215-WichitaState-2.csv
+# Auto-pruned non-team data
+20260213-PaulDemieMainieriField-3.csv
+# Auto-pruned non-team data
+20260216-700-HughAdamsPark-1_unverified.csv
+# Auto-pruned non-team data
+20260216-Arlington-1_unverified.csv
+# Auto-pruned non-team data
+20260216-HDetterField-1_unverified.csv
+# Auto-pruned non-team data
+20260216-HDetterField-2_unverified.csv
+# Auto-pruned non-team data
+20260216-IrwinField-1_unverified.csv
+# Auto-pruned non-team data
+20260216-NickDenesField-1_unverified.csv
