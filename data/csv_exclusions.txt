@@ -3822,3 +3822,25 @@ v3_10_28_20250404-OKState-1.csv
 20260218-USFBaseballStadium-1.csv
 # Auto-pruned non-team data
 20260218-Vanderbilt-1.csv
+# Auto-pruned non-team data
+20260214-DavidStory-1_unverified.csv
+# Auto-pruned non-team data
+20260217-BushStadium-1.csv
+# Auto-pruned non-team data
+20260219-BowiesBallpark-1_unverified.csv
+# Auto-pruned non-team data
+20260219-DavidStory-1_unverified.csv
+# Auto-pruned non-team data
+20260219-GeorgeFox-1_unverified.csv
+# Auto-pruned non-team data
+20260219-GrierField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-GulfCoastState-1_unverified.csv
+# Auto-pruned non-team data
+20260219-PKPark-1_unverified.csv
+# Auto-pruned non-team data
+20260219-USIField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-WinterholterField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-YoungMemorialField-1_unverified.csv
