@@ -5270,3 +5270,11 @@ v3_10_28_20250404-OKState-1.csv
 20260222-WoffordCollege-1_unverified.csv
 # Auto-pruned non-team data
 20260222-YoungMemorialField-1_unverified.csv
+# Auto-pruned non-team data
+20260222-Arlington-4_unverified.csv
+# Auto-pruned non-team data
+20260222-TonyGwynnStadium-2_unverified.csv
+# Auto-pruned non-team data
+20260222-LouisianaLafayette-1_unverified.csv
+# Auto-pruned non-team data
+20260222-SullivanField-1_unverified.csv
