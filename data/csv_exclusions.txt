@@ -5530,3 +5530,5 @@ v3_10_28_20250404-OKState-1.csv
 20260223-PeteBeidenField-1_unverified.csv
 # Auto-pruned non-team data
 20260223-WinthropUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260223-BaggettStadium-1_unverified.csv
