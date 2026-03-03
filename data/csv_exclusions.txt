@@ -8122,3 +8122,7 @@ v3_10_28_20250404-OKState-1.csv
 20260302-UofWashington-1_unverified.csv
 # Auto-pruned non-team data
 20260302-UTArlington-1_unverified.csv
+# Auto-pruned non-team data
+20260302-LSU-1_unverified.csv
+# Auto-pruned non-team data
+20260302-705-CalBaptistBaseballField-Private-1_unverified.csv
