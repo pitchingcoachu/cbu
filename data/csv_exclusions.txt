@@ -10372,3 +10372,37 @@ v3_10_28_20250404-OKState-1.csv
 20260308-UTRGVStadium-1_unverified.csv
 # Auto-pruned non-team data
 20260308-WarriorField-1_unverified.csv
+# Auto-pruned non-team data
+20260308-WilsonField-1_unverified.csv
+# Auto-pruned non-team data
+20260308-AbileneChristian-1.csv
+# Auto-pruned non-team data
+20260308-BaumStadium-1.csv
+# Auto-pruned non-team data
+20260308-BobWrenStadium-1.csv
+# Auto-pruned non-team data
+20260308-DedeauxField-3.csv
+# Auto-pruned non-team data
+20260308-GaryWright-1_unverified.csv
+# Auto-pruned non-team data
+20260308-GeorgiaTech-1.csv
+# Auto-pruned non-team data
+20260308-KansasUniversity-1.csv
+# Auto-pruned non-team data
+20260308-KingsmoreStadium-1.csv
+# Auto-pruned non-team data
+20260308-LathamPark-1_unverified.csv
+# Auto-pruned non-team data
+20260308-LSU-1.csv
+# Auto-pruned non-team data
+20260308-SwellThomasStadium-1.csv
+# Auto-pruned non-team data
+20260308-UCincinnati-1.csv
+# Auto-pruned non-team data
+20260308-UKentucky-2.csv
+# Auto-pruned non-team data
+20260308-Vanderbilt-1.csv
+# Auto-pruned non-team data
+20260308-WestVirginia-1.csv
+# Auto-pruned non-team data
+20260308-WoernerField-2_unverified.csv
