@@ -13176,3 +13176,7 @@ v3_10_28_20250404-OKState-1.csv
 20260315-YoungMemorialField-1.csv
 # Auto-pruned non-team data
 20260316-HubHollisField-1_unverified.csv
+# Auto-pruned non-team data
+20260316-MarichFieldLaptop-1_unverified.csv
+# Auto-pruned non-team data
+20260316-PaulDemieMainieriField-1_unverified.csv
